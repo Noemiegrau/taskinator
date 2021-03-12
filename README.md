@@ -1,6 +1,4 @@
-# Taskinator
-
-# **_Password Generator Starter Code_**
+# **_Taskinator: Task-tracker application_**
 
 ## **_Table of contents_**
 * [Description of the project](#description-of-the-project)
@@ -10,7 +8,7 @@
 * [Link URL to GitHub Repository](#link-URL-to-GitHub-repository)
 
 ## **_Description of the project_**
-This project is a password generator allowing user to create a strong password that provides greater security.
+This project is a task-tracker application.
 
 ## **_Technologies used_**
 Project is created using:
