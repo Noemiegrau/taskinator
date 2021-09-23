@@ -21,7 +21,7 @@ Project is created using:
 ![image](https://user-images.githubusercontent.com/78329298/110901056-92000400-82b8-11eb-8405-10036027dc38.png)
 
 ## **_Installation_**
-Here are some guidelines for installing the project on your local machine in order to be able to try it:
+Here are some guidelines for installing the project on your local machine:
 
 1. Clone or download the repository to your own local machine.
 
